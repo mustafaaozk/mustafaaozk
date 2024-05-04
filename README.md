@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-- 🔭 I’m currently working on **Game**
+- 🔭 I’m currently working on **Software**
 
 - 🌱 I’m currently learning **Game Developer**
 
